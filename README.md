@@ -5,8 +5,6 @@
   [![My Qiita followers](https://qiita-badge.apiapi.app/s/cokemaniaIIDX/followers.svg)](http://qiita.com/cokemaniaIIDX)
 
   ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=cokemaniaIIDX&layout=compact)
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=cokemaniaIIDX&theme=onedark)](https://github.com/cokemaniaIIDX/github-profile-trophy)
 </div>
 
 - 👋 Hi, I’m @cokemaniaIIDX
