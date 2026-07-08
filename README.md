@@ -6,8 +6,8 @@
 </div>
 
 - 👋 Hi, I’m @cokemaniaIIDX
-- 👀 I’m interested in ... GCP , AWS
-- 🌱 I’m currently learning ... JavaScript(React) , Python(Django) , Serverless WebApp
+- 👀 I’m interested in ... Gen AI, Flutter, Firebase
+- 🌱 I’m currently learning ... Gemini, Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
