@@ -3,8 +3,6 @@
   [![My Qiita posts](https://qiita-badge.apiapi.app/s/cokemaniaIIDX/posts.svg)](http://qiita.com/cokemaniaIIDX)
   [![My Qiita contributions](https://qiita-badge.apiapi.app/s/cokemaniaIIDX/contributions.svg)](http://qiita.com/cokemaniaIIDX)
   [![My Qiita followers](https://qiita-badge.apiapi.app/s/cokemaniaIIDX/followers.svg)](http://qiita.com/cokemaniaIIDX)
-
-  ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=cokemaniaIIDX&layout=compact)
 </div>
 
 - 👋 Hi, I’m @cokemaniaIIDX
